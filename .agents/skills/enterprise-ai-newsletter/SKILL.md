@@ -50,7 +50,7 @@ description: 기업용 AI·업무자동화 산업과 AI Integration Engineer 직
 
 기본 출력 위치는 다음과 같다.
 
-`projects/enterprise-ai-newsletter-2026-09-15-v01/versions/v01/output/newsletter-YYYY-MM-DD-v01.md`
+`projects/enterprise-ai-newsletter-2026-09-15-v01/newsletters/v01/newsletter-YYYY-MM-DD-v01.md`
 
 같은 이름이 이미 있으면 덮어쓰지 않는다. 존재 여부를 확인하고 `v02`, `v03`처럼 다음 번호의 새 파일을 제안한 뒤 확인받는다.
 
