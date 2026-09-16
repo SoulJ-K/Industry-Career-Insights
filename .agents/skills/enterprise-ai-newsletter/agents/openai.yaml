@@ -1,0 +1,7 @@
+interface:
+  display_name: "기업용 AI 직무 뉴스레터"
+  short_description: "직무 분석 2개·재미 읽을거리 2개·생각 정리 연습 1개의 HTML 뉴스레터"
+  default_prompt: "$enterprise-ai-newsletter를 사용해 뉴스 수집 실행 계획을 보여줘."
+
+policy:
+  allow_implicit_invocation: false
